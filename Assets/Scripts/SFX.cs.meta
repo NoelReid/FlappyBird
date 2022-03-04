@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: fd01342f1d1204520bdf37c4aa68d952
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - splatSFX: {fileID: 8300000, guid: 25a1ed0af69cd4adfab0182f8bb9ec14, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
